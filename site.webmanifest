@@ -1,0 +1,16 @@
+{
+  "name": "Cafè Lambretto",
+  "short_name": "Lambretto",
+  "description": "Cafeteria amb terrassa a Tremp (Pallars Jussà). Assaboreix cada instant.",
+  "lang": "ca",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7efe1",
+  "theme_color": "#221a14",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/img/favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" }
+  ]
+}
